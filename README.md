@@ -2,7 +2,7 @@
 
 The purpose of this repository is to demonstrate how to use the services offered by [buf.build](https://buf.build/) for hosting protobuffer definitions and automatic code generation for protobuffers and gRPC services.
 
-This means that the developer does not have to:
+This means that the developer **does not have to**:
 
 - install the `buf` tool
 - does not have to deal directly with the `.proto` files
